@@ -81,7 +81,7 @@ const elyan = {
 
 Git stats                  |  Wakatime week stats
 :-------------------------:|:-------------------------:
-![Github readme stats](https://github-readme-stats.vercel.app/api?username=AndreyElyan&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff) |  ![](https://git-stats.AndreyElyan.com/api/wakatime?username=AndreyElyan&hide_title=true&bg_color=ffffff&hide_border=true)
+![Github readme stats](https://github-readme-stats.vercel.app/api?username=AndreyElyan&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff) |  ![](https://git-stats.willianrod.com/api/wakatime?username=AndreyElyan)
 
 
 
