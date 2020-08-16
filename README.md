@@ -55,7 +55,7 @@ const elyan = {
     <tr valign="top">
       <td width="25%" align="center">
         <span>Node</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/node-js.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -66,7 +66,7 @@ const elyan = {
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td><td width="25%" align="center">
         <span>Nest</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nest.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
       </td>
     </tr>
   </tbody>
