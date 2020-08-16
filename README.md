@@ -5,7 +5,9 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-andreyelyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://https://www.linkedin.com/in/andrey-elyan-995991171)
 
-<a href="https://andrey-elyan-site.netlify.app/">Andrey Elyan - Site <a />
+<strong><a href="https://andrey-elyan-site.netlify.app/">Andrey Elyan - Site <a /> <strong/>
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
  
