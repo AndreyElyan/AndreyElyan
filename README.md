@@ -3,7 +3,7 @@
 <p><em>Software Developer at <a href="https://agibank.com.br/home">Agibank/Ilegra</a>
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-andreyelyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://https://www.linkedin.com/in/andrey-elyan-995991171)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-andreyelyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/andrey-elyan-995991171)
 
 <strong><a href="https://elyan-site.netlify.app//">Andrey Elyan - Site <a /> <strong/>
 
