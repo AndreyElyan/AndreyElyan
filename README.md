@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Andrey Elyan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2I'm Andrey Elyan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 <p><em>Software Developer at <a href="https://agibank.com.br/home">Agibank/Ilegra</a>
 </em></p>
