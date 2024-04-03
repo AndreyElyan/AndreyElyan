@@ -19,7 +19,7 @@ const elyan = {
     technologies: {
         mobileApp: ["React Native", "Flutter"],
         frontEnd: {
-            js: ["React"],
+            js: ["React", "NextJs],
             css: ["styled-components", "materialize", "tailwind"]
         },
         backEnd: {
