@@ -72,6 +72,16 @@ const elyan = {
         <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
       </td>
     </tr>
+   <tr valign="top">
+     </td><td width="25%" align="center">
+        <span>NextJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+   </td><td width="25%" align="center">
+        <span>Tailwind</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+      </td>
+  </tr>
   </tbody>
 </table>
 
