@@ -75,7 +75,7 @@ const elyan = {
    <tr valign="top">
      </td><td width="25%" align="center">
         <span>NextJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
       </td>
    </td><td width="25%" align="center">
         <span>Tailwind</span><br><br><br>
