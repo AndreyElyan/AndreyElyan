@@ -1,13 +1,3 @@
-<h2>I'm Andrey Elyan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-<p><em>Software Developer at</em></p>
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-andreyelyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/andrey-elyan-995991171)
-
-<strong><a href="https://resume-andrey.vercel.app/">Andrey Elyan - Site <a /> <strong/>
-
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
  
 - 𝗜 ❤️  𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
